@@ -19,8 +19,7 @@ A VPC with two subnets in different availability zones
 - An AWS account(Free tier) with sufficient permissions (EC2, ALB, Security groups, VPC)
 
 ### Architecture diagram
-![Alt text](https://example.com/path/to/your/image.jpg)
-
+![Architecture](./Blank%20diagram.jpeg)
 
 ## Getting Started
 
